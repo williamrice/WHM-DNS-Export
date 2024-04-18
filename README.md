@@ -1,0 +1,1 @@
+This project was just created as an internal tool to help me with a task I was assigned at work. Feel free to use it. You will need to get api links and provide your own links to WHM instances to use it. I removed mine from the code. https://api.docs.cpanel.net/whm/introduction/
